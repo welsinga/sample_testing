@@ -5,9 +5,7 @@ import com.android.uiautomator.core.UiObjectNotFoundException;
 import com.android.uiautomator.core.UiSelector;
 import com.android.uiautomator.testrunner.UiAutomatorTestCase;
 
-//import com.android.uiautomator.core.UiScrollable;
-
-public class LaunchTestFirst extends UiAutomatorTestCase
+public class MainActivityTest extends UiAutomatorTestCase
 {
 
   public void testDemo() throws UiObjectNotFoundException
